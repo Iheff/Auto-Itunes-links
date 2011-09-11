@@ -1,0 +1,19 @@
+Welcome to my first GitHub project.
+
+I have used some basic JS and PHP to access the Itunes search API and bring back 
+relevant results based on simple inputs like the page title.
+
+
+I built this as a way of quick workaround untill I configured a rather over complicated template of mine 
+to provide itunes "id"s, but figured this could cme in handy for quite a few blggers. 
+
+I am also using it to learn my way aroung the Git system, CMD Line and tools.
+
+I invite anyone to contribute... I will spend a some time to make the code less suited to my personal environment 
+and more welcoming to others, where more server limitationand web knowledge are at the users hand.
+
+The aim is to make concise easy to use code that any blgger could attach to his/her and possibly help them make 
+some money for their hard earned time.
+
+Fork at will.
+
