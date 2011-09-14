@@ -1,7 +1,8 @@
 Welcome to my first GitHub project.
 
 I have used some basic JS and PHP to access the Itunes search API and bring back 
-relevant results based on simple inputs like the page title.
+relevant results based on simple inputs like the page title or any text content 
+of any element on the page, like a H tag for instance
 
 
 I built this as a way of quick workaround untill I configured a rather over complicated template of mine 
@@ -18,5 +19,5 @@ some money for their hard earned time.
 Fork at will.
 
 
-TO get starte dwith using and modifying the script you can just place these files in the root of your site and 
+TO get started with using and modifying the script you can just place these files in the root of your site and 
 include the test.php in your template file.
